@@ -1,0 +1,13 @@
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula10Sobreposição\bin\Debug\netcoreapp3.1\Aula10Sobreposição.exe
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula10Sobreposição\bin\Debug\netcoreapp3.1\Aula10Sobreposição.deps.json
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula10Sobreposição\bin\Debug\netcoreapp3.1\Aula10Sobreposição.runtimeconfig.json
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula10Sobreposição\bin\Debug\netcoreapp3.1\Aula10Sobreposição.runtimeconfig.dev.json
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula10Sobreposição\bin\Debug\netcoreapp3.1\Aula10Sobreposição.dll
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula10Sobreposição\bin\Debug\netcoreapp3.1\Aula10Sobreposição.pdb
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula10Sobreposição\obj\Debug\netcoreapp3.1\Aula10Sobreposição.csprojAssemblyReference.cache
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula10Sobreposição\obj\Debug\netcoreapp3.1\Aula10Sobreposição.csproj.CoreCompileInputs.cache
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula10Sobreposição\obj\Debug\netcoreapp3.1\Aula10Sobreposição.AssemblyInfoInputs.cache
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula10Sobreposição\obj\Debug\netcoreapp3.1\Aula10Sobreposição.AssemblyInfo.cs
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula10Sobreposição\obj\Debug\netcoreapp3.1\Aula10Sobreposição.dll
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula10Sobreposição\obj\Debug\netcoreapp3.1\Aula10Sobreposição.pdb
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula10Sobreposição\obj\Debug\netcoreapp3.1\Aula10Sobreposição.genruntimeconfig.cache
